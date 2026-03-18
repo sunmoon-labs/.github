@@ -6,7 +6,7 @@
 
 ## 📌 Quick Links (단일 진입점)
 팀의 모든 업무 자산은 아래 링크를 통해 접근합니다.
-- 💬 **Slack 커뮤니케이션:** [`#업무-메인` 채널로 이동]([슬랙 채널 링크](https://app.slack.com/client/T0AKG6SKH7A/C0AMNFH50AV))
+- 💬 **Slack 커뮤니케이션:** ['#업무-메인' 채널로 이동](https://app.slack.com/client/T0AKG6SKH7A/C0AMNFH50AV)
 - 📂 **NAS 공용 폴더:** `\\192.168.x.x\Sunmoon_Projects` (Windows 탐색기에 복사/붙여넣기)
 - 📝 **코딩 컨벤션 및 깃플로우 가이드:** [Wiki/문서 링크]
 
