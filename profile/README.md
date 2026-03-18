@@ -17,12 +17,12 @@
 
 | 상태 | 프로젝트명 | 핵심 도메인 / 기술 요약 | 관련 링크 (SSOT) |
 | :---: | :--- | :--- | :--- |
-| 🟢 `진행중` | **드론측량 토공량 산출** | Point Cloud 데이터 처리, 3D Mesh 체적 계산 알고리즘 | [📋 Kanban Board](칸반 보드 URL) <br> 📁 `NAS/01_드론측량/` |
-| 🔴 `예정` | **MG(Machine Guidance) 자동화** | 중장비 GPS 실시간 좌표 동기화, 제어 인터페이스 구축 | [📋 Kanban Board](칸반 보드 URL) <br> 📁 `NAS/02_MG자동화/` |
-| 🟢 `진행중` | **IFC 뷰어 개발** | BIM 데이터 파싱(Industry Foundation Classes), 3D 렌더링 최적화 | [📋 Kanban Board](칸반 보드 URL) <br> 📁 `NAS/03_IFC뷰어/` |
-| 🟢 `진행중` | **설계 변경 요청서 자동화** | CAD 데이터 추출, 문서 양식 템플릿 맵핑 및 자동화 로직 | [📋 Kanban Board](칸반 보드 URL) <br> 📁 `NAS/04_설계변경/` |
-| 🟢 `진행중` | **사진 기반 객체 모델링** | Photogrammetry API 연동, 이미지 기반 3D 재구성 | [📋 Kanban Board](칸반 보드 URL) <br> 📁 `NAS/05_사진모델링/` |
-| 🟡 `기획중` | **철도 공사 작업 프로그램** | 선형 데이터(Alignment) 파싱, 철도 설계 기준(Design Code) 적용 | [📋 Backlog/기획안](기획안 URL) <br> 📁 `NAS/06_철도기획/` |
+| 🟢 `진행중` | **드론측량 토공량 산출** | Point Cloud 데이터 처리, 3D Mesh 체적 계산 알고리즘 | [📋 Kanban Board](칸반 보드 URL) <br> 📁 `NAS/05.기술연구소(보안)/10. 프로그램 개발/01_드론측량/` |
+| 🔴 `예정` | **MG(Machine Guidance) 자동화** | 중장비 GPS 실시간 좌표 동기화, 제어 인터페이스 구축 | [📋 Kanban Board](칸반 보드 URL) <br> 📁 `NAS/05.기술연구소(보안)/10. 프로그램 개발/02_MG자동화/` |
+| 🟢 `진행중` | **IFC 뷰어 개발** | BIM 데이터 파싱(Industry Foundation Classes), 3D 렌더링 최적화 | [📋 Kanban Board](칸반 보드 URL) <br> 📁 `NAS/05.기술연구소(보안)/10. 프로그램 개발/03_IFC뷰어/` |
+| 🟢 `진행중` | **설계 변경 요청서 자동화** | CAD 데이터 추출, 문서 양식 템플릿 맵핑 및 자동화 로직 | [📋 Kanban Board](칸반 보드 URL) <br> 📁 `NAS/05.기술연구소(보안)/10. 프로그램 개발/04_설계변경/` |
+| 🟢 `진행중` | **사진 기반 객체 모델링** | Photogrammetry API 연동, 이미지 기반 3D 재구성 | [📋 Kanban Board](칸반 보드 URL) <br> 📁 `NAS/05.기술연구소(보안)/10. 프로그램 개발/05_이미지모델링/` |
+| 🟡 `기획중` | **철도 공사 작업 프로그램** | 선형 데이터(Alignment) 파싱, 철도 설계 기준(Design Code) 적용 | [📋 Backlog/기획안](기획안 URL) <br> 📁 `NAS/05.기술연구소(보안)/10. 프로그램 개발/06_철도공단/` |
 
 <br>
 
