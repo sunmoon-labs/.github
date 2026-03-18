@@ -1,12 +1,36 @@
-## Hi there 👋
+# 🏗️ Sunmoon Labs Engineering Workspace
 
-<!--
+> **IT-토목 융합 개발팀 핸드북 및 프로젝트 대시보드** > "우리는 토목 현장의 복잡한 도메인을 소프트웨어 공학으로 해결합니다."
 
-**Here are some ideas to get you started:**
+<br>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 📌 Quick Links (단일 진입점)
+팀의 모든 업무 자산은 아래 링크를 통해 접근합니다.
+- 💬 **Slack 커뮤니케이션:** [`#업무-메인` 채널로 이동](슬랙 채널 링크)
+- 📂 **NAS 공용 폴더:** `\\192.168.x.x\Sunmoon_Projects` (Windows 탐색기에 복사/붙여넣기)
+- 📝 **코딩 컨벤션 및 깃플로우 가이드:** [Wiki/문서 링크]
+
+<br>
+
+## 🚀 Active Projects (진행 중인 프로젝트)
+각 프로젝트의 세부 작업(Task)은 우측의 'Kanban Board' 링크를 클릭하여 확인하세요.
+
+| 상태 | 프로젝트명 | 핵심 도메인 / 기술 요약 | 관련 링크 (SSOT) |
+| :---: | :--- | :--- | :--- |
+| 🟢 `진행중` | **드론측량 토공량 산출** | Point Cloud 데이터 처리, 3D Mesh 체적 계산 알고리즘 | [📋 Kanban Board](칸반 보드 URL) <br> 📁 `NAS/01_드론측량/` |
+| 🟢 `진행중` | **MG(Machine Guidance) 자동화** | 중장비 GPS 실시간 좌표 동기화, 제어 인터페이스 구축 | [📋 Kanban Board](칸반 보드 URL) <br> 📁 `NAS/02_MG자동화/` |
+| 🟢 `진행중` | **IFC 뷰어 개발** | BIM 데이터 파싱(Industry Foundation Classes), 3D 렌더링 최적화 | [📋 Kanban Board](칸반 보드 URL) <br> 📁 `NAS/03_IFC뷰어/` |
+| 🟢 `진행중` | **설계 변경 요청서 자동화** | CAD 데이터 추출, 문서 양식 템플릿 맵핑 및 자동화 로직 | [📋 Kanban Board](칸반 보드 URL) <br> 📁 `NAS/04_설계변경/` |
+| 🟢 `진행중` | **사진 기반 객체 모델링** | Photogrammetry API 연동, 이미지 기반 3D 재구성 | [📋 Kanban Board](칸반 보드 URL) <br> 📁 `NAS/05_사진모델링/` |
+| 🟡 `기획중` | **철도 공사 작업 프로그램** | 선형 데이터(Alignment) 파싱, 철도 설계 기준(Design Code) 적용 | [📋 Backlog/기획안](기획안 URL) <br> 📁 `NAS/06_철도기획/` |
+
+<br>
+
+## 💻 Team Rules (협업 컨벤션)
+1. **모든 업무의 진실의 원천(SSOT)은 GitHub입니다.**
+   - 중요한 도메인 지식, 버그 리포트, 진행 상황은 반드시 GitHub Issue에 기록합니다.
+2. **Slack은 알림(Message Queue)과 토론용입니다.**
+   - 반드시 **'스레드(Thread)'** 기능을 사용하여 주제를 캡슐화합니다.
+   - 메시지 확인 시 채팅 대신 **이모지(👀, ✅)**로 상태(Status)를 리턴합니다.
+3. **업무 방해 최소화 (Maker's Schedule)**
+   - 집중 코딩 시간이나 몰입이 필요할 때는 Slack을 '방해 금지' 모드로 설정하세요. 급한 서버 다운이 아니면 즉각적인 응답을 요구하지 않습니다.
